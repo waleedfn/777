@@ -1,0 +1,62 @@
+<dana1 class="html"><!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>محافظة مسندم</title>
+
+    <style>
+        body {
+            direction: rtl;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2em;
+            font-style: italic;
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+            font-size: 18px;
+            line-height: 2;
+        }
+
+        img {
+            width: 400px;
+            height: 600px;
+        }
+
+        a {
+            font-size: 20px;
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>محافظة مسندم</h1>
+
+    <p>
+        تُعد محافظة مسندم من أجمل المحافظات في سلطنة عُمان،
+        وتقع في أقصى شمال السلطنة وتطل على مضيق هرمز.
+        وتتميز بموقعها الجغرافي المهم، وبجبالها الشاهقة
+        وخلجانها ومياهها الصافية ومناظرها الطبيعية الجميلة.
+    </p>
+
+    <p>
+        وتشتهر مسندم بتكويناتها الجبلية والبحرية الرائعة،
+        ولذلك تعد من المناطق السياحية المميزة في سلطنة عُمان.
+        كما تتميز بتاريخها وثقافتها وتراثها العريق.
+    </p>
+
+    <img src="musandam.jpg" alt="صورة محافظة مسندم">
+
+    <br><br>
+
+    <a href="dana2.html">الصفحة الثانية</a>
+    <a href="dana3.html">الصفحة الثالثة</a>
+
+</body>
+</html></dana1>
